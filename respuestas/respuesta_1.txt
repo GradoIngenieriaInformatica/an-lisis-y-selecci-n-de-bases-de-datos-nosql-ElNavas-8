@@ -1,1 +1,4 @@
-TIPO | Justificación corta
+GRAFOS
+
+Adecuado para modelar relaciones y nodos. 
+Mejora las consultas de rutas, la conectividad y los algoritmos para encontrar caminos más breves.

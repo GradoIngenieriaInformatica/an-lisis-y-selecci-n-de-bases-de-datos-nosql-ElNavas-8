@@ -1,1 +1,4 @@
-TIPO | Justificación corta
+DOCUMENTAL
+
+Adaptable en su estructura para artículos que tengan distintas versiones y metadatos variables.
+Posibilita la utilización de índices por campos y documentos anidados.
