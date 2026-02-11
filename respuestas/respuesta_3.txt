@@ -1,1 +1,4 @@
-TIPO | Justificación corta
+SERIE TEMPORAL 
+
+Optimizado para una gran cantidad de registros indexados temporalmente. 
+Brinda consultas a través de un intervalo temporal, conservando y agrupando datos de manera eficaz.
